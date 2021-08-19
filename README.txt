@@ -1,4 +1,10 @@
 # Railway-Management
+
+--->WONT WORK CAUSE I USED TURBO C++<-----
+
+
+
+
 GroupProject 12th grade
 Program was created on Old Version of C++, with Turbo C++ as the compilor and code doesnt work on newer versions of C++,since there has been an entire change in syntax, I mean this version of CPP is centuries old, and depicts the Indian School Syllabus, which made us program in an 2000's outdated version of CPP.
 To Run the Program, kindly install, oldest possible cpp compilor, preferably Turbo cpp and have enough patience.
